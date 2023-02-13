@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/_01_BasicSyntax/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_01_BasicSyntax/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_02_BasicObject/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_02_BasicObject/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_03_ObjectOrient/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_03_ObjectOrient/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_04_Exception/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_04_Exception/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_05_CollectionMap/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_05_CollectionMap/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_06_Java8New/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_06_Java8New/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
